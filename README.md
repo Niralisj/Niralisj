@@ -1,5 +1,7 @@
-<h1 align="center">Hello World !</h1>
-<h3 align="center">Hi there, I am Nirali, A student and  An aspiring software developer.</h3>
+<h1 align="center">Hey there!</h1>
+
+
+<h3 align="center">Hi , I am Nirali, A student and  An aspiring software developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niralisj&label=Profile%20views&color=0e75b6&style=flat" alt="niralisj" /> </p>
 
