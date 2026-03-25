@@ -9,11 +9,8 @@ I'm fascinated by products that operate at scale, where small engineering decisi
 
 
 
-<div align="center">
 
-## 🌐 Connect with me
+## Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirali-pandey3/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@niralipandey3)
-
-</div>
