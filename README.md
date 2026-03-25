@@ -5,8 +5,9 @@ I'm [Nirali](https://niralii.netlify.app/). software developer and Master's stud
 
 I'm focused on full-stack development and cloud technologies, currently building projects and exploring open source.
 
-I'm fascinated by products that operate at scale, where small engineering decisions can impact many users. Outside of work I'm interested in following the developments of science. I write blogs sometimes as well.
+I'm fascinated by products that operate at scale, where small engineering decisions can impact many users. 
 
+Outside of work, I enjoy following developments in science and occasionally writing blogs.
 
 
 
