@@ -1,11 +1,11 @@
 # Hi there! 
 
 
-I'm [Nirali](https://niralii.netlify.app/) — a developer learning and building step by step.
+I'm [Nirali](https://niralii.netlify.app/). software developer and Master's student.
 
-I'm interested in full-stack development and cloud technologies. Currently im working on some personal projects and open-source.
+I'm focused on full-stack development and cloud technologies, currently building projects and exploring open source.
 
-I'm fascinated by products that operate at scale, where small engineering decisions can impact many users.
+I'm fascinated by products that operate at scale, where small engineering decisions can impact many users. Outside of work I'm interested in following the developments of science. I write blogs sometimes as well.
 
 
 
