@@ -1,7 +1,7 @@
 # Hi there! 
 
 
-I'm [Nirali](https://niralii.netlify.app/). software developer and Master's student. I'm focused on full-stack development and cloud technologies, currently building projects and exploring open source.
+I'm [Nirali](https://niralii.netlify.app/). software developer and Master's student. I'm focused on full-stack development , currently building projects and exploring open source.
 
 I'm fascinated by products that operate at scale, where small engineering decisions can impact many users. 
 
